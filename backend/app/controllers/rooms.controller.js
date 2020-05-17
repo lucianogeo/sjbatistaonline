@@ -21,20 +21,20 @@ const createRoomFileSync = () => {
 
   roomsData[0] = {
     id: uuid(),
-    name: "Bem Vindo a plataforma   PENSAR ONLINE ",
+    name: "Bem Vindo a Plataforma Online SJ.Batista ",
     disableMeeting: true,
   };
 
   const niceNames = [
-    "Fundamental - ANO 1 ",
-    "Fundamental - ANO 2",
-    "Fundamental - ANO 3",
-    "Fundamental - ANO 4",
-    "Fundamental - ANO 5",
-    "Educacao Infantil",
-    "Coordenacao Pedagogica",
-    "Reuniao de Professores",
-    "Reuniao de Pais",
+    "Sala do Padre ",
+    "Secretaria Paroquial",
+    "Reuniao de Dirigentes",
+    "Reuniao - Pastoral 1",
+    "Reuniao - Pastoral 2",
+    "Reuniao - Pastoral 3",
+    "Encontrinhos ECC",
+    "Encontrinhos Noivos",
+    "Sala de Oração",
   ];
 
   for (const niceName of niceNames) {
