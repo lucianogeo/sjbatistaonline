@@ -21,7 +21,7 @@ const createRoomFileSync = () => {
 
   roomsData[0] = {
     id: uuid(),
-    name: "Bem Vindo a Plataforma Online SJ.Batista ",
+    name: "Bem Vindo a Paroquia São João Batista",
     disableMeeting: true,
   };
 
